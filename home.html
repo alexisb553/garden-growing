@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halfway to Homestead</title>
+    <link rel="shortcut icon" href="Homestead logo (1).png" type="image/png">
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+        <h1>Halfway to Homestead</h1>
+    
+
+    <div class="box">
+        <div class="homestead">
+            <h3>Our Homestead</h3>
+                <p>
+                    Halfway to Homestead is a small family run Homestead. 
+                    We grow our own food and love to share it with you all by providing knowledge, 
+                    starter plants, and seeds to get you started on your way to self-sufficiency.
+                </p>
+                    <button>Learn More</button>
+        </div>
+
+        <div class="nursery">
+            <h3>Nursery</h3>
+                <p>
+                    Our nursery consists of various plant starters and seeds from our very own
+                    homestead, giving you quality, fresh, organic crops for all your gardening
+                    needs when you buy with us.
+                </p>
+                    <button>Our Nursery</button>
+        </div>
+
+        <div class="recipes">
+            <h3>Recipe Book</h3>
+                <p>
+                    We use our organically grown food to provide nourishment for our family. 
+                    As we expand our crops, we find different ways to cook and eat our own 
+                    produce.<br> Would you like to try some of our recipes?
+                </p>
+                    <button>View Recipes</button>   
+            </div>
+        <div class="read">
+                <h3>Read Our Blog</h3>
+                    <P>
+                        Are you interested in learning about homesteading or what we do?<br>
+                        Follow our blog for recipes, garden tips, land prepping and more!
+                    </P>
+                        <button>Explore Blog</button>
+            </div>    
+
+    </div>
+
+    <h2>Join Our Newsletter!</h2>
+
+    <div>
+        <h3>This is a place holder</h3>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam, labore non aliquid 
+                officia soluta deleniti explicabo eligendi beatae molestiae. Perferendis vel iusto eos. 
+                Sapiente eius vero nulla. Esse, quidem rerum?
+            </p>
+    </div>
+
+    <h2>Follow Us on Social Media!</h2>
+
+</body>
+</html>
