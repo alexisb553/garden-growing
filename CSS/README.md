@@ -1,0 +1,106 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.homestead {
+    background-color: whitesmoke;
+    box-shadow: 10px 15px 15px black;
+    height: 400px;
+    width: 300px;
+    color: black;
+    padding: 50px;
+    box-sizing: content-box;
+    outline: 3px solid #9eb58a;
+    outline-offset: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    margin: 100px 150px;
+
+}
+
+.nursery {
+    background-color: azure;
+    box-shadow: 10px 15px 15px black;
+    height: 400px;
+    width: 300px;
+    color: black;
+    padding: 50px;
+    box-sizing: content-box;
+    outline: 3px solid #9eb58a;
+    outline-offset: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    margin: 100px 60px;
+}
+
+.recipes {
+    background-color: white;
+    box-shadow: 10px 15px 15px black;
+    height: 400px;
+    width: 300px;
+    color: black;
+    padding: 50px;
+    box-sizing: content-box;
+    outline: 3px solid #9eb58a;
+    outline-offset: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    margin: 100px 150px;
+
+}
+
+.read {
+    background-color: white;
+    box-shadow: 10px 15px 15px black;
+    height: 400px;
+    width: 300px;
+    color: black;
+    padding: 50px;
+    box-sizing: content-box;
+    outline: 3px solid #9eb58a;
+    outline-offset: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    margin: 100px 60px;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #708d9e;
+    opacity: 78%;
+    box-shadow: 10px 15px 15px black;
+    padding: 200px;
+    margin: 20px;
+}
+h2 {
+    background-color: #9ea1af;
+    text-align: center;
+    color: #eed9c4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 86%;
+    height: 200px;
+    width: auto;
+    align-content: center;
+    padding-left: 200px;
+    align-items: center;
+    margin: 80px 150px;
+}
+
+h3 {
+   color: #708d9e
+}
+
+
+body {
+    /** background-image: url(les-anderson-country.jpg);**/
+    outline: 30px solid white;
+    background-color: beige;
+    
+}
+
+button {
+    background-color:#eed9c4;
+}
